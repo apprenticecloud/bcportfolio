@@ -1,0 +1,20 @@
+#heading{
+    color: red; 
+    text-align: 
+    center;margin-top: 
+    250px;
+}
+.paragraph{
+    text-align: center; 
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+@media print {
+    body{
+        background-color: red;
+     }
+}
